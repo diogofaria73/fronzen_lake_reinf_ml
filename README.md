@@ -32,7 +32,7 @@ reinf_ml_puc/
 
 1. Clone este repositório:
 ```bash
-git clone <url-do-repositorio>
+git clone <https://github.com/diogofaria73/fronzen_lake_reinf_ml.git>
 cd reinf_ml_puc
 ```
 
